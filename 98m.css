@@ -182,10 +182,10 @@ legend {
 .field-row-stacked * + * {
   margin-top: 6px;
 }
-label {
+/* label {
   display: inline-flex;
   align-items: center;
-}
+} */
 /* input[type="checkbox"],
 input[type="radio"] {
   appearance: none;
